@@ -1,6 +1,6 @@
 # Solana Wallet Connection Example
 
-This project demonstrates how to create a React application that connects to Solana wallets using the Solana Wallet Adapter library. It includes features such as connecting to multiple wallet types, importing custom wallets, and displaying wallet information.
+This project provides a React application implementation that connects to Solana wallets using the Solana Wallet Adapter library. It includes features to connect to Solflare and Phantom wallet types, importing a custom wallet, and displaying wallet information.
 
 ## Features
 
